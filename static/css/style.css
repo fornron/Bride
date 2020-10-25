@@ -188,6 +188,7 @@ ul{
     color: #600E09;
     top: -11.5vh;
     z-index: -1;
+    left: 0px;
 }
 
 .seasons__item:hover::after{
@@ -239,4 +240,8 @@ ul{
 
  .slick-next{
      right: 38px;
+ }
+
+ .heroes__name{
+
  }
